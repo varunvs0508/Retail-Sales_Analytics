@@ -1,6 +1,6 @@
 # 🛒 GMart Retail Sales Analytics & Business Intelligence System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Pandas](https://img.shields.io/badge/Data-Pandas-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)
